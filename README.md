@@ -12,10 +12,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Análisis%20Estadístico-purple)
 ![Estado](https://img.shields.io/badge/Estado-Finalizado-success)
 
-</div>
 
 
-<div align="center">
+
+
 
 **Universidad:** Universidad del Pacífico
 
@@ -35,8 +35,8 @@
 - Kelly Jhoana Mosquera Urbano
 - Nombre Integrante 2
 - Nombre Integrante 3
-
----
+ 
+</div>
 
 # 📑 Tabla de Contenido
 
