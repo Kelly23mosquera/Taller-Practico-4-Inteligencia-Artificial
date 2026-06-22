@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="images/escudo_universidad_pacifico.png" width="180">
+<<img width="250" height="271" alt="image" src="https://github.com/user-attachments/assets/14dbdb4d-f4a5-4781-88c4-c5c64664fc00" />
+">
 
 # UNIVERSIDAD DEL PACÍFICO
 
@@ -12,12 +13,11 @@
 ## Aplicación de NumPy, Matplotlib y Seaborn en Problemas de Inteligencia Artificial
 
 **Docente:** Wilman Andrés Quiñonez V.  
-*M.Sc. in Data Science | M.Sc. in Applied Artificial Intelligence*
 
 **Estudiantes:**
 - Kelly Jhoana Mosquera Urbano
-- Nombre Integrante 2
-- Nombre Integrante 3
+- Anyela Katerine Rentería Cumana
+- Juan Alejandro Roldán 
 
 **Semestre:** Octavo
 
