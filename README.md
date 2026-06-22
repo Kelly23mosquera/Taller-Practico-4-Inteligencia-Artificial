@@ -360,31 +360,9 @@ La Inteligencia Artificial permite transformar datos históricos en conocimiento
 
 ![Caso 5](images/caso5.png)
 
----
+-
 
-# ▶️ Ejecución del Proyecto
-
-Clonar el repositorio:
-
-```bash
-git clone https://github.com/usuario/taller_practico_librerias_numpy_matplotlib_seaborn.git
-```
-
-Instalar dependencias:
-
-```bash
-pip install numpy pandas matplotlib seaborn
-```
-
-Ejecutar Notebook:
-
-```bash
-jupyter notebook
-```
-
----
-
-# 📚 Referencias Bibliográficas
+# **Referencias Bibliográficas**
 
 - NumPy Documentation.
 - Matplotlib Documentation.
@@ -395,21 +373,3 @@ jupyter notebook
 - Aurélien Géron. Hands-On Machine Learning.
 
 ---
-
-# 🔗 Enlace del Repositorio
-
-Repositorio GitHub:
-
-**https://github.com/TU-USUARIO/taller_practico_librerias_numpy_matplotlib_seaborn**
-
----
-
-<div align="center">
-
-### Proyecto desarrollado para la asignatura de Inteligencia Artificial
-
-**Universidad del Pacífico – Ingeniería de Sistemas – 2026**
-
-⭐ Si este proyecto te resultó útil, no olvides darle una estrella al repositorio.
-
-</div>
