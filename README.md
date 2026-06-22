@@ -63,7 +63,6 @@ El desarrollo de los casos de estudio permitió identificar patrones, tendencias
 15. Evidencias del Proyecto
 16. Ejecución del Proyecto
 17. Referencias Bibliográficas
-18. Enlace del Repositorio
 
 ---
 # Introducción
