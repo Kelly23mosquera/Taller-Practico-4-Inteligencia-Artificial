@@ -105,7 +105,7 @@ Durante el desarrollo del taller se fortalecieron las siguientes competencias:
 
 ---
 
-# 🛠 Herramientas Utilizadas
+#  Herramientas Utilizadas
 
 | Herramienta | Función |
 |------------|----------|
@@ -256,7 +256,7 @@ Se analizó un conjunto de datos sintético correspondiente a transacciones fina
 
 ---
 
-# 🔧 Caso 5. Mantenimiento Predictivo en una Fábrica Inteligente
+# Caso 5. Mantenimiento Predictivo en una Fábrica Inteligente
 
 ## Contexto
 
