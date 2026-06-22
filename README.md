@@ -356,7 +356,7 @@ En el caso de TechSolutions S.A.S., empresa dedicada al desarrollo de software y
 
 # Gráfico 1 - Histograma de Salarios
 
-![Caso 1](<img width="706" height="470" alt="image" src="https://github.com/user-attachments/assets/c58a1ebd-35bd-4934-8ec6-709db7f297cd" />
+(<img width="706" height="470" alt="image" src="https://github.com/user-attachments/assets/c58a1ebd-35bd-4934-8ec6-709db7f297cd" />
 )
 
 # Interpretación del Histograma de Salarios
@@ -373,7 +373,7 @@ Una empresa manufacturera produce piezas metálicas y desea analizar los factore
 
  # Histograma de Temperatura
  
-![Caso 2](<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/a6581a35-5494-4ec4-b807-ea9e9e39aa60" />
+(<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/a6581a35-5494-4ec4-b807-ea9e9e39aa60" />
 )
 
 # Interpretación
@@ -390,7 +390,7 @@ En el presente trabajo se desarrolla un análisis exploratorio de datos aplicado
 
  # GRÁFICO DE SERIE TEMPORAL
  
-![Caso 3](<img width="1014" height="471" alt="image" src="https://github.com/user-attachments/assets/ca54694d-8883-42dd-add1-bbfcd806cdb7" />
+(<img width="1014" height="471" alt="image" src="https://github.com/user-attachments/assets/ca54694d-8883-42dd-add1-bbfcd806cdb7" />
 )
 
 # Interpretación
@@ -407,7 +407,7 @@ Las actividades fraudulentas pueden generar pérdidas económicas significativas
 
 # Gráfico 1 - Histograma de Valor de las Transacciones
 
-![Caso 4](<img width="694" height="470" alt="image" src="https://github.com/user-attachments/assets/37c4917d-5d66-48f1-90e0-04eb0f7ae25b" />
+(<img width="694" height="470" alt="image" src="https://github.com/user-attachments/assets/37c4917d-5d66-48f1-90e0-04eb0f7ae25b" />
 )
 
 # Interpretación del Histograma de Valores de las Transacciones
@@ -420,7 +420,7 @@ Este caso analiza datos operativos de maquinaria industrial con el objetivo de a
 
 # Gráfico 1. Histograma de Temperatura
 
-![Caso 5](<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/f3f94321-2635-4d1c-951e-9847c9dcda88" />
+(<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/f3f94321-2635-4d1c-951e-9847c9dcda88" />
 )
 
 # Interpretación
