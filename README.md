@@ -291,6 +291,7 @@ Detectar anomalías, patrones inusuales y comportamientos atípicos.
 Utilizar visualizaciones como apoyo clave en la interpretación de los resultados.
 
 En conjunto, estos elementos constituyen la base para el desarrollo de proyectos de Inteligencia Artificial y Machine Learning más sólidos, precisos y orientados a la toma de decisiones.
+
 ---
 
  # Aplicación de la Inteligencia Artificial
