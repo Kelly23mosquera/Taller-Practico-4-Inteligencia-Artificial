@@ -1,9 +1,10 @@
-# Taller-Practico-4-Inteligencia-Artificial
+
 
 # 🤖 Taller Práctico No. 4
+
 # Aplicación de NumPy, Matplotlib y Seaborn en Problemas de Inteligencia Artificial
 
-<div align="center">
+
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Análisis%20Numérico-orange)
