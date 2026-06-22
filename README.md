@@ -5,7 +5,7 @@
 # Aplicación de NumPy, Matplotlib y Seaborn en Problemas de Inteligencia Artificial
 
 
-
+<div align="center">
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Análisis%20Numérico-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualización-green)
@@ -14,9 +14,8 @@
 
 </div>
 
----
 
-# 📌 Información General
+<div align="center">
 
 **Universidad:** Universidad del Pacífico
 
